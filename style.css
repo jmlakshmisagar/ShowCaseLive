@@ -109,6 +109,7 @@ p{
     display: flex;
     flex-direction: row;
     border-radius: 10px;
+    margin-bottom: 20px;
 }
 
 .collectionPics {
